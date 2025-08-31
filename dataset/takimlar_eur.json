@@ -1,0 +1,182 @@
+[
+    {
+        "Ülke": "Italian Football Federation",
+        "Pot": "Pot 1",
+        "Takım": "Roma"
+    },
+    {
+        "Ülke": "Portuguese Football Federation",
+        "Pot": "Pot 1",
+        "Takım": "Porto"
+    },
+    {
+        "Ülke": "Scottish Football Association",
+        "Pot": "Pot 1",
+        "Takım": "Rangers"
+    },
+    {
+        "Ülke": "Royal Dutch Football Association",
+        "Pot": "Pot 1",
+        "Takım": "Feyenoord"
+    },
+    {
+        "Ülke": "French Football Federation",
+        "Pot": "Pot 1",
+        "Takım": "Lille"
+    },
+    {
+        "Ülke": "Croatian Football Federation",
+        "Pot": "Pot 1",
+        "Takım": "Dinamo Zagreb"
+    },
+    {
+        "Ülke": "Royal Spanish Football Federation",
+        "Pot": "Pot 1",
+        "Takım": "Real Betis"
+    },
+    {
+        "Ülke": "Austrian Football Association",
+        "Pot": "Pot 1",
+        "Takım": "Red Bull Salzburg"
+    },
+    {
+        "Ülke": "The Football Association",
+        "Pot": "Pot 1",
+        "Takım": "Aston Villa"
+    },
+    {
+        "Ülke": "Turkish Football Federation",
+        "Pot": "Pot 2",
+        "Takım": "Fenerbahçe"
+    },
+    {
+        "Ülke": "Portuguese Football Federation",
+        "Pot": "Pot 2",
+        "Takım": "Braga"
+    },
+    {
+        "Ülke": "Football Association of Serbia",
+        "Pot": "Pot 2",
+        "Takım": "Red Star Belgrade"
+    },
+    {
+        "Ülke": "French Football Federation",
+        "Pot": "Pot 2",
+        "Takım": "Lyon"
+    },
+    {
+        "Ülke": "Hellenic Football Federation",
+        "Pot": "Pot 2",
+        "Takım": "PAOK"
+    },
+    {
+        "Ülke": "Football Association of the Czech Republic",
+        "Pot": "Pot 2",
+        "Takım": "Viktoria Plzeň"
+    },
+    {
+        "Ülke": "Hungarian Football Federation",
+        "Pot": "Pot 2",
+        "Takım": "Ferencváros"
+    },
+    {
+        "Ülke": "Scottish Football Association",
+        "Pot": "Pot 2",
+        "Takım": "Celtic"
+    },
+    {
+        "Ülke": "Israel Football Association",
+        "Pot": "Pot 2",
+        "Takım": "Maccabi Tel Aviv"
+    },
+    {
+        "Ülke": "Swiss Football Association",
+        "Pot": "Pot 3",
+        "Takım": "Young Boys"
+    },
+    {
+        "Ülke": "Swiss Football Association",
+        "Pot": "Pot 3",
+        "Takım": "Basel"
+    },
+    {
+        "Ülke": "Danish Football Association",
+        "Pot": "Pot 3",
+        "Takım": "Midtjylland"
+    },
+    {
+        "Ülke": "German Football Association",
+        "Pot": "Pot 3",
+        "Takım": "SC Freiburg"
+    },
+    {
+        "Ülke": "Bulgarian Football Union",
+        "Pot": "Pot 3",
+        "Takım": "Ludogorets Razgrad"
+    },
+    {
+        "Ülke": "The Football Association",
+        "Pot": "Pot 3",
+        "Takım": "Nottingham Forest"
+    },
+    {
+        "Ülke": "Austrian Football Association",
+        "Pot": "Pot 3",
+        "Takım": "Sturm Graz"
+    },
+    {
+        "Ülke": "Romanian Football Federation",
+        "Pot": "Pot 3",
+        "Takım": "FCSB"
+    },
+    {
+        "Ülke": "French Football Federation",
+        "Pot": "Pot 3",
+        "Takım": "Nice"
+    },
+    {
+        "Ülke": "Italian Football Federation",
+        "Pot": "Pot 4",
+        "Takım": "Bologna"
+    },
+    {
+        "Ülke": "Royal Spanish Football Federation",
+        "Pot": "Pot 4",
+        "Takım": "Celta Vigo"
+    },
+    {
+        "Ülke": "German Football Association",
+        "Pot": "Pot 4",
+        "Takım": "VfB Stuttgart"
+    },
+    {
+        "Ülke": "Hellenic Football Federation",
+        "Pot": "Pot 4",
+        "Takım": "Panathinaikos"
+    },
+    {
+        "Ülke": "Swedish Football Association",
+        "Pot": "Pot 4",
+        "Takım": "Malmö FF"
+    },
+    {
+        "Ülke": "Royal Dutch Football Association",
+        "Pot": "Pot 4",
+        "Takım": "Go Ahead Eagles"
+    },
+    {
+        "Ülke": "Royal Dutch Football Association",
+        "Pot": "Pot 4",
+        "Takım": "Utrecht"
+    },
+    {
+        "Ülke": "Royal Belgian Football Association",
+        "Pot": "Pot 4",
+        "Takım": "Genk"
+    },
+    {
+        "Ülke": "Norwegian Football Federation",
+        "Pot": "Pot 4",
+        "Takım": "Brann"
+    }
+]
