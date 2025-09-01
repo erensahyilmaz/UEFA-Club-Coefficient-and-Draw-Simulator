@@ -242,7 +242,8 @@ Her pot için ayrı stilize edilmiş tablolar:
 - **RestartDraw Exception**: Uygun rakip bulunamadığında otomatik yeniden başlatma
 - **Infinite Loop Protection**: Sonsuz döngü koruması
 - **Rule Validation**: Tüm UEFA kurallarının kontrolü
-**Not:** UEFA Şampiyonlar Ligi'nde 6 İngiliz, 5 İspanyol 4'er adet Almanya ve İtalya takımı bulunduğundan bu turnuvada uygun bir kura çıkarmak biraz daha uzun sürebilir. UEFA Avrupa Ligi'nde böyle bir problem yok.
+
+**Not:** UEFA Şampiyonlar Ligi kura çekimi, çok sayıda kısıtlama (6 İngiliz, 5 İspanyol, 4 Alman, 4 İtalyan takımı) nedeniyle hesaplama açısından yoğun olabilir. Bu kısıtlamalardan dolayı bazı takımlara rakip kalmayabiliyor; bu durumda, kodda yazdığım bir müdahale ile döngü yeniden başlatılıyor. Bazen geçerli bir çözümü bulması uzun sürerken, bazen daha kısa sürede bulunabiliyor. Bu tamamen biraz şansa bağlı. Hatta bazen işlemi durdurup tekrar başlatmak, çözümü daha kısa sürede bulmayı sağlıyor. Bu durum, gerçek uygulamalarda kısıtlama tatmini problemlerinin NP-zor (NP-hard) doğasını göstermektedir. UEFA Avrupa Ligi'nde ise böyle bir problem bulunmamaktadır.
   
 ## 🎨 Görselleştirme Özellikleri
 
