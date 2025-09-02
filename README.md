@@ -93,11 +93,12 @@ Program, hangi takımların hangi yıllarda 1. sırada yer aldığını analiz e
 - İç saha/deplasman dengesine uyulur
 
 #### 2.4 Kura Çıktıları
-<img width="1349" height="414" alt="Ekran görüntüsü 2025-09-02 002510" src="https://github.com/user-attachments/assets/9b13b041-74c0-4828-8919-536c48b73c27" />
+
+<img width="1286" height="421" alt="Ekran görüntüsü 2025-09-02 131700" src="https://github.com/user-attachments/assets/9e3d9b04-c310-452d-beed-791ba7042abd" />
 
 *Şampiyonlar Ligi'nde 4.torba takımların rakipleri ve maç durumları tablosu*
 
-<img width="1287" height="413" alt="Ekran görüntüsü 2025-09-02 002711" src="https://github.com/user-attachments/assets/4b38f123-5abc-4f1a-abe7-a8bbdb2076f8" />
+<img width="1343" height="419" alt="Ekran görüntüsü 2025-09-02 131716" src="https://github.com/user-attachments/assets/d219b96a-c352-438b-a90c-7f961ff52cb0" />
 
 *Avrupa Ligi'nde 2.torba takımların rakipleri ve maç durumları tablosu*
 
