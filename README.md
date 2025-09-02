@@ -94,11 +94,11 @@ Program, hangi takımların hangi yıllarda 1. sırada yer aldığını analiz e
 
 #### 2.4 Kura Çıktıları
 
-<img width="1286" height="421" alt="Ekran görüntüsü 2025-09-02 131700" src="https://github.com/user-attachments/assets/9e3d9b04-c310-452d-beed-791ba7042abd" />
+<img width="1343" height="419" alt="Ekran görüntüsü 2025-09-02 131716" src="https://github.com/user-attachments/assets/d219b96a-c352-438b-a90c-7f961ff52cb0" />
 
 *Şampiyonlar Ligi'nde 4.torba takımların rakipleri ve maç durumları tablosu*
 
-<img width="1343" height="419" alt="Ekran görüntüsü 2025-09-02 131716" src="https://github.com/user-attachments/assets/d219b96a-c352-438b-a90c-7f961ff52cb0" />
+<img width="1286" height="421" alt="Ekran görüntüsü 2025-09-02 131700" src="https://github.com/user-attachments/assets/9e3d9b04-c310-452d-beed-791ba7042abd" />
 
 *Avrupa Ligi'nde 2.torba takımların rakipleri ve maç durumları tablosu*
 
